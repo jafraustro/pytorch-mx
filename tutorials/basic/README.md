@@ -1,14 +1,17 @@
 # Tutoriales Básicos
 
 Tutoriales introductorios para aprender los fundamentos de PyTorch.
+Los tutoriales este seccion son una version traducida de los tutoriales originales de PyTorch que se encuentran en [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
 
-## Contenido Planeado
+## Contenido
 
-- Introducción a PyTorch y tensores
 - Operaciones básicas con tensores
+- Uso de Dataset y Dataloader
 - Autograd y diferenciación automática
-- Construyendo tu primera red neuronal
-- Introducción al entrenamiento de modelos
+- Tranformaciones de Tensores
+- Construccion de modelos en PyTorch
+- Optimizacion de redes neuronales
+- Cargar y Guardar modelos
 
 ## Para Contribuidores
 
